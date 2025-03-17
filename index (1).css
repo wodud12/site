@@ -103,6 +103,7 @@ body {
 .sec01_image {
   width: 1920px;
   height: 1198px;
+  margin-bottom: 129px;
 }
 .sec01_title {
   width: 762px;
@@ -147,6 +148,7 @@ body {
   margin-bottom: 80px;
   margin-left: 358px;
   text-align: left;
+  margin-top: 129px;
 }
 .sec02_title p{
   font-size: 22px;
