@@ -94,6 +94,7 @@ body {
   height: 24px;
 }
 /* sec01 */
+
 .sec01{
   position: relative;
   width: 1920px;
@@ -121,6 +122,7 @@ body {
   justify-content: space-between;
   width: 450px;
   height: 22px;
+  margin-top: 38px;
 }
 .sec01_title_box span {
   font-size: 16px;
@@ -184,3 +186,29 @@ body {
   right: 34px;
   bottom: 95px;
 }
+
+/* sec03 */
+
+.sec03_title p{
+  font-size: 22px;
+  color: #AA2D29;
+}
+.bigbox_b{
+  width: 1203px;
+  height: 530px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+.sec03_box{
+  position: relative;
+}
+.sec03 p{
+  position: absolute;
+  top: 32px;
+}
+.sec03_box_icon{
+  position: absolute;
+  left: 32px;
+}
+
