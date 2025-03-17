@@ -151,6 +151,7 @@ body {
 .sec02_title p{
   font-size: 22px;
   color: #AA2D29;
+  margin-bottom: 12px;
 }
 .sec02_title h3{
   font-size: 42px;
@@ -189,9 +190,16 @@ body {
 
 /* sec03 */
 
-.sec03_title p{
-  font-size: 22px;
-  color: #AA2D29;
+.sec02{
+  width: 1920px;
+  height: 1198px;
+  padding: 129px 0;
+}
+.sec03_title{
+  width: 213px;
+  height: 102px;
+  margin-bottom: 80px;
+  margin-left: 358px;
 }
 .bigbox_b{
   width: 1203px;
@@ -201,14 +209,17 @@ body {
   margin: 0 auto;
 }
 .sec03_box{
+  width: 286px;
+  height: 530px;
   position: relative;
+  margin: 10px;
 }
 .sec03 p{
-  position: absolute;
-  top: 32px;
+  font-size: 42px;
+  color: #1E1E1E;
 }
-.sec03_box_icon{
-  position: absolute;
-  left: 32px;
+.sec03 h3{
+  font-size: 22px;
+  color: #AA2D29;
+  margin-bottom: 12px;
 }
-
